@@ -176,3 +176,9 @@ img:last-of-type {
   color: white;
   font-family: Lato;
 }
+.saboresRestantes {
+  justify-content: center;
+  text-align: center;
+  color: black;
+  font-family: Lato;
+}
